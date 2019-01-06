@@ -1,14 +1,14 @@
 HEADING
 ===
-#HEADING
+HEADING
 ---
-##sub-subheading
+sub-subheading
 ---
 	text text text text text text text
 text text text `text` text text text
 **bold-text** test text
 ```
 sample code
-text text text text text text text
+-text- text text text text text text
 text text text text text text text
 ```
