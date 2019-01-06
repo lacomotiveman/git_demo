@@ -1,13 +1,11 @@
 HEADING
 ===
-#subheading
-text text text text text text text
-text text text text text text text
-text text text text text text text
-
+#HEADING
 ---
 ##sub-subheading
-text text text text text text text
-text text text text text text text
 ---
-**bold-text**
+	text text text text text text text
+text text text text text text text
+**bold-text** test text
+text text text text text text text
+text text text text text text text
